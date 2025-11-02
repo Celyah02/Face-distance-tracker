@@ -150,9 +150,10 @@ Improvement and Description
 
 # 🤖 Face Direction & Speed Tracker using OpenCV
 
-### 👨‍🎓 By: Shema Leandre  
+### 👨‍🎓 By: FURAHA NIYONGIRA Celia
 **Field:** Intelligent Systems & Robotics  
 **Year:** 2025  
 
 ---
+
 
